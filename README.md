@@ -4,6 +4,10 @@ GROUP MEMBERS
 1. Muwanguzi Priscila Denise M23B23/010
 2. Mawejje JohnPaul M23B23/049
 3. Nicole Johnson S23B23/020
+
+
+
+
 Task Scheduler Documentation with Pseudocode
 This Task Scheduler application allows users to manage and prioritize tasks, visualize task
 schedules, analyze task density based on priority, and receive notifications for upcoming or
